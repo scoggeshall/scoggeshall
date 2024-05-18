@@ -8,7 +8,7 @@ I am a passionate B.S Computer Technology student at American Military Universit
 ## 🚀 About Me
 
 - I am a Junior at American Military University, pursing a Bachelor of Science in Computer Technology with a concentration in Web Development 
-- 🔭 I’m currently working on freeCodeCamp's Responsive Web Design certificate 
+- I’m currently working on freeCodeCamp's Responsive Web Design certificate 
 https://www.freecodecamp.org/seancoggeshall
 - In my free time I enjoy playing Chess - feel free to connect - https://link.chess.com/friend/TsmqnY
 - When not online you can find me at the gym or at the beach surfing 
