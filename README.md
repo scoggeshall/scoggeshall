@@ -2,8 +2,6 @@
 
 I am a passionate B.S Computer Technology student at American Military University, driven by a passion for learning, an interest in new tech and always having questions and looking for answers. 
 
-![<Sean Coggeshall>'s Stats](https://github-readme-stats.vercel.app/api?username=<seancoggs>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - I am a Junior at American Military University, pursing a Bachelor of Science in Computer Technology with a concentration in Web Development 
