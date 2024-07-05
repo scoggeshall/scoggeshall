@@ -10,13 +10,13 @@ I am a passionate B.S Computer Technology student at American Military Universit
 - I am a Junior at American Military University, pursing a Bachelor of Science in Computer Technology with a concentration in Web Development 
 - I’m currently working on freeCodeCamp's Responsive Web Design certificate 
 https://www.freecodecamp.org/seancoggeshall
-- In my free time I enjoy playing Chess - feel free to connect - https://link.chess.com/friend/TsmqnY
+- In my free time I enjoy playing Chess - feel free to connect - https://www.chess.com/member/scoggs
 - When not online you can find me at the gym or at the beach surfing 
 
 ## Tech Stack
-Associates of Science in Computer Technology https://www.parchment.com/u/award/33c52572f4ed14862e193473cc78d189
-CompTIA Network+ 
-https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url
+Associates of Science in Computer Technology <a href src="https://www.parchment.com/u/award/33c52572f4ed14862e193473cc78d189">www.parchment.com</a>
+<br>
+CompTIA Network+ <a href src="https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url">www.credly.com</a>
 
 ## 🌱 Currently Exploring
 
@@ -26,6 +26,6 @@ https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url
 ## 📬 Get in Touch
 
 - Connect with me on LinkedIn https://www.linkedin.com/in/sean-coggeshall/
-- Thanks for stopping by! Let's connect and continue to create together 🚀
+- Thanks for stopping by!
 
 <!--
