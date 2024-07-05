@@ -14,9 +14,9 @@ https://www.freecodecamp.org/seancoggeshall
 - When not online you can find me at the gym or at the beach surfing 
 
 ## Tech Stack
-Associates of Science in Computer Technology <a href src="https://www.parchment.com/u/award/33c52572f4ed14862e193473cc78d189">www.parchment.com</a>
+Associates of Science in Computer Technology <a href="https://www.parchment.com/u/award/33c52572f4ed14862e193473cc78d189"> parchment.com </a>
 <br>
-CompTIA Network+ <a href src="https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url">www.credly.com</a>
+CompTIA Network+ <a href="https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url"> credly.com</a>
 
 ## 🌱 Currently Exploring
 
