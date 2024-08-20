@@ -2,7 +2,6 @@
 
 I am a passionate Information Systems student at American Military University, driven by a passion for learning, an interest in new tech and always having questions and looking for answers. 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=seancoggs&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seancoggs&langs_count=5&theme=tokyonight)]()
 
 ## Tech Stack
