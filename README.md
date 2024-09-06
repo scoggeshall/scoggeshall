@@ -8,6 +8,7 @@ I am a passionate Information Systems student at American Military University, d
 <pre>
 Associates of Science in Computer Technology - <a href="https://www.parchment.com/u/award/33c52572f4ed14862e193473cc78d189">parchment.com </a>
 CompTIA Network+ - <a href="https://www.credly.com/badges/43796bca-54f9-4ae3-acc9-d4cd9e54995d/public_url">credly.com</a>
+CompTIA Security +
 Microsoft Azure Fundamentals Certified - <a href="https://learn.microsoft.com/api/credentials/share/en-us/Sean-5963/A9AB6EDADDADFD1E?sharingId=C2BE394415529A64"> learn.microsoft.com/api/credentials/ </a>
 Microsoft 365 Fundamentals Certified - <a href="https://learn.microsoft.com/api/credentials/share/en-us/Sean-5963/697E50C3000A52E8?sharingId=C2BE394415529A64"> learn.microsoft.com/api/credentials/ </a>
 </pre>
