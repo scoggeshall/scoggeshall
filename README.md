@@ -13,7 +13,7 @@ Microsoft 365 Fundamentals Certified - <a href="https://learn.microsoft.com/api/
 
 ## Learning
 <pre>
-  I'm continuing to learn programming and scripting skills through projects and course work on <a href="https://www.freecodecamp.org/seancoggeshall">FreeCodeCamp</a>
+  I'm continuing to learn programming and scripting skills through school work, projects and course work on <a href="https://www.freecodecamp.org/seancoggeshall">FreeCodeCamp</a>
 </pre>
 
 ## Get in Touch
