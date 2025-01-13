@@ -1,7 +1,5 @@
 ### Hi, I'm Sean Coggeshall! 👋
 
-I am a passionate Information Technology (BS) student at American Military University, driven by a passion for learning, an interest in new tech and always having questions and looking for answers. 
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seancoggs&langs_count=5&theme=tokyonight)]()
 
 ## Tech Stack
