@@ -1,6 +1,6 @@
 # Sean Coggeshall
 
-Network Engineer | Automation + DevOps path | USCG Vet
+Network Engineer | Automation + DevOps  | USCG Vet
 
 I build and automate network infrastructure, focusing on making things repeatable, predictable, and easier to operate.
 
